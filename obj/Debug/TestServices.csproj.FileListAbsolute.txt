@@ -1,0 +1,12 @@
+c:\users\isalinas\source\repos\TestServices\TestServices\bin\Debug\TestServices.exe.config
+c:\users\isalinas\source\repos\TestServices\TestServices\bin\Debug\TestServices.exe
+c:\users\isalinas\source\repos\TestServices\TestServices\bin\Debug\TestServices.pdb
+c:\users\isalinas\source\repos\TestServices\TestServices\obj\Debug\TestServices.csprojAssemblyReference.cache
+c:\users\isalinas\source\repos\TestServices\TestServices\obj\Debug\TestServices.csproj.CoreCompileInputs.cache
+c:\users\isalinas\source\repos\TestServices\TestServices\obj\Debug\TestServices.exe
+c:\users\isalinas\source\repos\TestServices\TestServices\obj\Debug\TestServices.pdb
+c:\users\isalinas\source\repos\TestServices\TestServices\bin\Debug\ServicesExtends.dll
+c:\users\isalinas\source\repos\TestServices\TestServices\bin\Debug\NLog.dll
+c:\users\isalinas\source\repos\TestServices\TestServices\bin\Debug\ServicesExtends.pdb
+c:\users\isalinas\source\repos\TestServices\TestServices\bin\Debug\NLog.xml
+c:\users\isalinas\source\repos\TestServices\TestServices\obj\Debug\TestServices.csproj.CopyComplete
